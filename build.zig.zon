@@ -6,6 +6,7 @@
         "build.zig",
         "build.zig.zon",
         "README.md",
+        "main.zig",
     },
     .dependencies = .{},
 }
