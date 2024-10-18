@@ -1,0 +1,11 @@
+.{
+    .name = "zig-fonts",
+    .version = "0.0.0",
+    .paths = .{
+        "fonts",
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+    },
+    .dependencies = .{},
+}
